@@ -1,4 +1,3 @@
-"use client"
 
 import { useState, useEffect } from "react"
 
@@ -12,7 +11,7 @@ const EditUserModal = ({ user, isOpen, onClose, onSave }) => {
   // Reset form data whenever the modal opens or user changes
   useEffect(() => {
     if (isOpen && user) {
-      console.log("Setting form data for user:", user) // Debug log
+      console.log("Setting form data for user:", user) 
       setFormData({
         name: user.name || "",
         email: user.email || "",
