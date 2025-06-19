@@ -4,7 +4,7 @@ A simplified version of Splitwise built with FastAPI (Python) backend and React 
 
 ## 📽️ Demo Video
 
-▶️ [Click here to watch the demo](Demo/Splitwise-clone-demo.mp4)
+▶️ [Click here to watch the demo](Demo/Splitwise-Clone-demo.mp4)
 
 
 ## Features
