@@ -2,6 +2,11 @@
 
 A simplified version of Splitwise built with FastAPI (Python) backend and React frontend. This application helps people track shared expenses and figure out who owes whom.
 
+## 📽️ Demo Video
+
+▶️ [Click here to watch the demo](Demo/Splitwise-clone-demo.mp4)
+
+
 ## Features
 
 ### Backend (FastAPI + PostgreSQL)
